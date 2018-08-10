@@ -6,6 +6,7 @@
     "packages": [
         "//topaz/bin/user_shell/armadillo_user_shell",
         "//topaz/bin/user_shell/capybara_user_shell",
+        "//topaz/bin/user_shell/ermine_user_shell:ermine",
         "//topaz/shell/agents/home_work_agent",
         "//topaz/shell/kernel_panic",
         "//topaz/shell:sysui"
