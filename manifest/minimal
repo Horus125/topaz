@@ -4,7 +4,8 @@
     <project name="topaz"
              path="topaz"
              remote="https://fuchsia.googlesource.com/topaz"
-             gerrithost="https://fuchsia-review.googlesource.com"/>
+             gerrithost="https://fuchsia-review.googlesource.com"
+             remotebranch="milestone-1011"/>
   </projects>
   <hooks>
     <hook name="download-libwebkit"
