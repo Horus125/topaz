@@ -1,6 +1,2 @@
-# Topaz
-
-This is the layer where first-party mods (modules) live.
-See [Flutter Module Development](
-https://fuchsia.googlesource.com/docs/+/HEAD/development/languages/dart/mods.md)
-.
+The Fuchsia topaz repository is no longer being mirrored to GitHub.
+See https://fuchsia.googlesource.com/topaz.

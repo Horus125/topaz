@@ -1,9 +1,0 @@
-*.pyc
-.vscode
-.DS_Store
-*.sublime-project
-*.sublime-workspace
-.cipd/
-third_party/chromium/
-**/Cargo.lock
-**/Cargo.toml
